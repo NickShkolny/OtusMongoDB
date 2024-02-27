@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"restaurant Serenity"},"geometry":{"type":"Point","coordinates":[42.75,58.96]}},{"type":"Feature","properties":{"name":"club Reyes"},"geometry":{"type":"Point","coordinates":[40.24,50.88]}},{"type":"Feature","properties":{"name":"cafe Joesph"},"geometry":{"type":"Point","coordinates":[40.53,48.19]}}]}
