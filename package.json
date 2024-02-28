@@ -1,0 +1,19 @@
+{
+  "name": "otusbot",
+  "version": "1.0.0",
+  "description": "бот для сдачи диплома по mongoDb в Otus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NickShkolny",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "faker": "^5.5.3",
+    "geolib": "^3.3.4",
+    "mongoose": "^8.2.0",
+    "node-telegram-bot-api": "^0.63.0",
+    "util": "^0.12.5"
+  }
+}
